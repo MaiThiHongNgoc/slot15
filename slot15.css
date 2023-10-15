@@ -4,7 +4,7 @@
     overflow: hidden;
 }
 #photo-viewer.is-loading:after {
-    content: url('./img/load.gif');
+    content: url('../img/load.gif');
     position: absolute;
     top: 0;
     left: 0;
